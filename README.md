@@ -14,7 +14,7 @@
 
 ####  Sofia Laura
 
-(Função: Desenvolvedora, Design de Interface, responsável pela criação da interface; Testador,
+(Função: Desenvolvedora, Design de Interface, responsável pela criação da interface e da classe Agenda_Contato; Testador,
 responsável por testar a aplicação e relatar problemas/bugs, bem como corrigi-los)
 
 ## Perguntas
@@ -28,9 +28,10 @@ Não, todas as funcionalidades foram implementadas conforme as orientações.
 Sim, a função editarContatos() não está sendo executada corretamente, pois há um erro de sintaxe.
 
 ### 3. Descrição da experiência:
-   
-Descreva a experiência individual ou de cada integrante da equipe
+
+Alan Victor: 
 Maria Eduarda: gostei bastante dessa esperiência, porém encontrei dificuldades para a realização de algumas funções.
+Sofia Laura: a experiência pôde fomentar a cooperação, foi divertido o compartilhamento de ideias e a correção de bugs encontrados, embora não tenhamos conseguindo corrigir a funcionalidade editarContatos().
 
 ### 4. Dificuldades encontradas:
 Enfrentamos algumas dificuldades na manipulação dinâmica do DOM e na estilização da interface, mas conseguimos
