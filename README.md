@@ -30,6 +30,7 @@ Sim, a função editarContatos() não está sendo executada corretamente, pois h
 ### 3. Descrição da experiência:
    
 Descreva a experiência individual ou de cada integrante da equipe
+Maria Eduarda: gostei bastante dessa esperiência, porém encontrei dificuldades para a realização de algumas funções.
 
 ### 4. Dificuldades encontradas:
 Enfrentamos algumas dificuldades na manipulação dinâmica do DOM e na estilização da interface, mas conseguimos
