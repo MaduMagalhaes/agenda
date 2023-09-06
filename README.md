@@ -29,12 +29,16 @@ Sim, a função editarContatos() não está sendo executada corretamente, pois h
 
 ### 3. Descrição da experiência:
 
-Alan Victor: 
+Alan Victor: eu achei bem dinâmico e interessante por ter sido um trabalho que exigia, principalmente, a cooperação entre os integrantes.
+
 Maria Eduarda: gostei bastante dessa esperiência, porém encontrei dificuldades para a realização de algumas funções.
-Sofia Laura: a experiência pôde fomentar a cooperação, foi divertido o compartilhamento de ideias e a correção de bugs encontrados, embora não tenhamos conseguindo corrigir a funcionalidade editarContatos().
+
+Sofia Laura: a experiência pôde fomentar a cooperação, foi divertido o compartilhamento de ideias e a correção de bugs encontrados, embora não tenhamos conseguido corrigir a funcionalidade editarContatos().
 
 ### 4. Dificuldades encontradas:
 Enfrentamos algumas dificuldades na manipulação dinâmica do DOM e na estilização da interface, mas conseguimos
 superá-las com a ajuda de recursos online e experimentação.
 
 ## Referências
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/Object
