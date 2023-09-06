@@ -14,8 +14,8 @@
 
 ####  Sofia Laura
 
-(Função: Desenvolvedora, Design de Interface, responsável pela criação da interface e da classe Agenda_Contato; Testador,
-responsável por testar a aplicação e relatar problemas/bugs, bem como corrigi-los)
+(Função: Desenvolvedora, Design de Interface, responsável pela criação da interface e da classe Contato; Testador,
+responsável por testar a aplicação e relatar problemas;
 
 ## Perguntas
 
