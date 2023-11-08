@@ -4,18 +4,13 @@
 
 ## Integrantes
 
-####  Alan Victor
-
-(Função: Desenvolvedor, responsável pela implementação das classes X e Y e funcionalidades A, B e C)
-
 ####  Maria Eduarda
 
-(Função: Desenvolvedora, responsável pela implementação das classes k e W e funcionalidades D e E)
+(Função: Desenvolvedora, responsável pela implementação das subclasses; Testadora)
 
 ####  Sofia Laura
 
-(Função: Desenvolvedora, Design de Interface, responsável pela criação da interface e da classe Contato; Testador,
-responsável por testar a aplicação e relatar problemas;
+(Função: Desenvolvedora, responsável pela criação da interface e da classe Contato; Testador, responsável por testar a aplicação e relatar problemas;
 
 ## Perguntas
 
@@ -25,19 +20,16 @@ Não, todas as funcionalidades foram implementadas conforme as orientações.
 
 ### 2. Há algum problema/erro identificado?
    
-Sim, a função editarContatos() não está sendo executada corretamente, pois há um erro de sintaxe.
+Não.
 
 ### 3. Descrição da experiência:
 
-Alan Victor: eu achei bem dinâmico e interessante por ter sido um trabalho que exigia, principalmente, a cooperação entre os integrantes.
-
 Maria Eduarda: gostei bastante dessa esperiência, porém encontrei dificuldades para a realização de algumas funções.
 
-Sofia Laura: a experiência pôde fomentar a cooperação, foi divertido o compartilhamento de ideias e a correção de bugs encontrados, embora não tenhamos conseguido corrigir a funcionalidade editarContatos().
+Sofia Laura: a experiência pôde fomentar a cooperação, foi divertido o compartilhamento de ideias e a correção de bugs encontrados.
 
 ### 4. Dificuldades encontradas:
-Enfrentamos algumas dificuldades na manipulação dinâmica do DOM e na estilização da interface, mas conseguimos
-superá-las com a ajuda de recursos online e experimentação.
+Enfrentamos algumas dificuldades quanto às funcionalidades, mas com auxílio da monitoria, conseguimos enfrentá-los.
 
 ## Referências
 
