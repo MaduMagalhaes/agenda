@@ -39,13 +39,13 @@ class Contato {
     }
 
     editarContato(contatoEditar1, novoNome1, novoTelefone1, novoEmail1) {
-        for (const contato of agenda.lista) {
-            if (contato.nome === contatoEditar1) {
-                contato.nome = novoNome1;
-                contato.telefone = novoTelefone1;
-                contato.email = novoEmail1;
+        for (const contato1 of agenda.lista) {
+            if (contato1.nome === contatoEditar1) {
+                contato1.nome = novoNome1;
+                contato1.telefone = novoTelefone1;
+                contato1.email = novoEmail1;
             } else {
-                console.log("Este contato não foi encontrado!");
+                console.log("Este contato não foi encontrado. Portanto, não foi editado!");
             }
         }
     }
@@ -63,14 +63,14 @@ class Cliente extends Contato {
     }
 
     editarContato(contatoEditar2, novoNome2, novoTelefone2, novoEmail2, novaEmpresa2) {
-            for (const contato of agenda.lista) {
-                if (contato.nome === contatoEditar2) {
-                    contato.nome = novoNome2;
-                    contato.telefone = novoTelefone2;
-                    contato.email = novoEmail2;
-                    contato.empresa = novaEmpresa2;
+            for (const contato2 of agenda.lista) {
+                if (contato2.nome === contatoEditar2) {
+                    contato2.nome = novoNome2;
+                    contato2.telefone = novoTelefone2;
+                    contato2.email = novoEmail2;
+                    contato2.empresa = novaEmpresa2;
                 } else {
-                    console.log("Este contato não foi encontrado!");
+                    console.log("Este contato não foi encontrado. Portanto, não foi editado!");
                 }
             }
         }
@@ -88,14 +88,14 @@ class Amigo extends Contato {
     }
 
     editarContato(contatoEditar3, novoNome3, novoTelefone3, novoEmail3, novaDataNasc3) {
-            for (const contato of agenda.lista) {
-                if (contato.nome === contatoEditar3) {
-                    contato.nome = novoNome3;
-                    contato.telefone = novoTelefone3;
-                    contato.email = novoEmail3;
-                    contato.dataNasc = novaDataNasc3;
+            for (const contato3 of agenda.lista) {
+                if (contato3.nome === contatoEditar3) {
+                    contato3.nome = novoNome3;
+                    contato3.telefone = novoTelefone3;
+                    contato3.email = novoEmail3;
+                    contato3.dataNasc = novaDataNasc3;
                 } else {
-                    console.log("Este contato não foi encontrado!");
+                    console.log("Este contato não foi encontrado. Portanto, não foi editado!");
                 }
              }
     }
@@ -113,14 +113,14 @@ class ColegaDeTrabalho extends Contato {
     }
 
     editarContato(contatoEditar4, novoNome4, novoTelefone4, novoEmail4, novoDepartamento4) {
-            for (const contato of agenda.lista) {
-                if (contato.nome === contatoEditar4) {
-                    contato.nome = novoNome4;
-                    contato.telefone = novoTelefone4;
-                    contato.email = novoEmail4;
-                    contato.departamento = novoDepartamento4;
+            for (const contato4 of agenda.lista) {
+                if (contato4.nome === contatoEditar4) {
+                    contato4.nome = novoNome4;
+                    contato4.telefone = novoTelefone4;
+                    contato4.email = novoEmail4;
+                    contato4.departamento = novoDepartamento4;
                 } else {
-                    console.log("Este contato não foi encontrado!");
+                    console.log("Este contato não foi encontrado. Portanto, não foi editado!");
                 }
               }
     }   
